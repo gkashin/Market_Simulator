@@ -1,5 +1,5 @@
 # Market Simulator
-### The simple and safe way to play the markets
+The simple and safe way to play the markets
 
 ## Getting Started
 To run the program open the .jar file.\
