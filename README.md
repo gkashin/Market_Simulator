@@ -19,7 +19,3 @@ By clicking on any entity, you can get information about it.\
 If this entity is an asset, you can also see a plot of its price over time.
 
 ## Enjoy!
-
-## Author
-*Georgii Kashin* \
-*ER1011*
